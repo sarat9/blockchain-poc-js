@@ -2,6 +2,16 @@
 Simple Blockchain POC with basic concepts 
 
 
+## Running the App
+In the directory
+```
+node index.js
+
+```
+
+
+## Simple Blockchain POC with basic concepts 
+
 - Blockchain
 - Blocks
 - Transactions
